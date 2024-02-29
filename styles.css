@@ -16,7 +16,7 @@ body {
     margin-top: 0;
   }
   
-  /* form {
+  /* form */ {
     margin-bottom: 20px;
   }
   
@@ -40,7 +40,7 @@ body {
   
   button:hover {
     background-color: #555;
-  } */
+  }
   
   ul {
     list-style-type: none;
